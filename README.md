@@ -1,1 +1,1 @@
-# YP
+# Учебные проекты в Yandex practicum
