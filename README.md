@@ -1,1 +1,1 @@
-# Учебные проекты в Yandex practicum
+# Учебные проекты Yandex practicum
